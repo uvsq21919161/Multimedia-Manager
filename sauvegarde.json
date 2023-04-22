@@ -1,0 +1,18 @@
+[
+  {
+    "path": "src/media\\Dinos_Ma_Baby.mp3",
+    "title": "Ma Baby",
+    "artist": "Dinos",
+    "album": "Hiver à Paris",
+    "year": 2022,
+    "duration": 198
+  },
+  {
+    "path": "src/media\\Dinos_Simyaci.mp3",
+    "title": "Simyaci",
+    "artist": "Dinos",
+    "album": "Hiver à Paris",
+    "year": 2022,
+    "duration": 228
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "path": "src/media\\LAYLOW - VENT DE L'EST.mp4",
+    "artist": "Laylow",
+    "title": "Vent de l'est",
+    "duration": {
+      "secs": 152,
+      "nanos": 462187500
+    },
+    "genre": "Rap",
+    "year": "2019"
+  }
+]
