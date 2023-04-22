@@ -26,4 +26,4 @@ Pour exécuter le code, placez-vous d'abord dans le chemin correspondant dans le
 ```
 cargo run <cmd>
 ```
-<cmd> correspond à l'une des commandes décrites précédemment.
+*cmd* correspond à l'une des commandes décrites précédemment.
